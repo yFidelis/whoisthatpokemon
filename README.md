@@ -6,7 +6,7 @@ Um jogo interativo inspirado no famoso quadro da franquia Pokémon. O jogador v�
 
 ## 📸 Preview
 
-![preview](https://user-images.githubusercontent.com/your-username/preview.png) <!-- Substitua por sua imagem, se desejar -->
+![preview]([https://user-images.githubusercontent.com/your-username/preview.png](https://yfidelis.github.io/whoisthatpokemon/))
 
 ---
 
@@ -29,8 +29,4 @@ Um jogo interativo inspirado no famoso quadro da franquia Pokémon. O jogador v�
 - CSS3
 - JavaScript puro
 - Sprites da [PokéAPI](https://pokeapi.co)
-
----
-
-## 📁 Estrutura do Projeto
 
