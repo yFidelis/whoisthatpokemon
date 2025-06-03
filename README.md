@@ -6,7 +6,7 @@ Um jogo interativo inspirado no famoso quadro da franquia Pokémon. O jogador v�
 
 ## 📸 Preview
 
-![preview]([https://user-images.githubusercontent.com/your-username/preview.png](https://yfidelis.github.io/whoisthatpokemon/))
+([https://user-images.githubusercontent.com/your-username/preview.png](https://yfidelis.github.io/whoisthatpokemon/))
 
 ---
 
